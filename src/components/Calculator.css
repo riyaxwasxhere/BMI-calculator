@@ -10,7 +10,7 @@ body, html {
 }
 
 .container{
-    margin: 30px auto;
+    margin: 50px auto;
     width: clamp(295px, 60%, 540px);
     box-shadow: 0 0 15px 2px #fff;
     border-radius: 20px;
